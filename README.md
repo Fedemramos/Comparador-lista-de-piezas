@@ -6,8 +6,8 @@
 
 ## Descripción
 Este proyecto se realizo con el fin de solucionar le incoveniente de revisar manualmente pieza por pieza, a la hora de enviar a procesar y fabricar las piezas demandadas. Existia el problema que luego de modelar
-y diseñar una maquina para determinado cliente, se proceguia a procesar las piezas para enviar a cortar y fabrica en dicho paso siempre existia el error de saltearse alguna pieza, lo que generaba que faltaran piezas de la
-maquina a la hora de fabrica y generar incovenientes en la produccion. Esta aplicacion se realizo con el fin de encontrar en ese paso si se estaba pasando por alto alguna pieza
+y diseñar las maquinas, se proceguia a procesar las piezas para enviar a cortar y fabrica, en dicho paso siempre existia el error de saltearse alguna pieza, lo que generaba que faltaran a la hora de fabrica y eso generar incovenientes en la produccion y demoras. 
+Esta aplicacion se realizo con el fin de solucionar y automatizar este proceso repetitivo.
 
 **Comparador de Piezas** es una aplicación gráfica desarrollada en Python utilizando Tkinter que permite comparar dos listas de piezas provenientes de archivos Excel. 
 La aplicación muestra las piezas faltantes y presenta ambas listas de manera ordenada en columnas, permitiendo una visualización clara de las diferencias.
